@@ -1,3 +1,3 @@
-# StatPacket
+# StatPackets
 
-visit [statpacket.github.io](https://statpacket.github.io)
+visit [statpackets.github.io](https://statpackets.github.io)

@@ -24,10 +24,6 @@ description: A standard for communicating statistical results and associated dat
 # List of links in the navigation bar
 navbar-links:
   About: "about"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
   Author's home: "http://www.mousephenotype.org"
 
 # Image to show in the navigation bar - image must be a square (width = height)
